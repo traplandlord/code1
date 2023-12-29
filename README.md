@@ -2,7 +2,7 @@
 import os
 
 import requests
-  from bs4 import BeautifulSoup
+import BeautifulSoup
   
   BASE_URL = "https://www.cas.org"
   LOG_DIR = "crawl_logs"
